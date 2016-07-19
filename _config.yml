@@ -21,3 +21,7 @@ navigation:
     url: 'https://www.etsy.com/shop/NicolePerezArt'
     name: Etsy
     type: external
+  - id: 'https://www.instagram.com/nicoleperezart/'
+    url: 'https://www.instagram.com/nicoleperezart/'
+    name: Instagram
+    type: external
