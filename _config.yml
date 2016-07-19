@@ -1,18 +1,18 @@
-typography_spectrum: 0.8250840371474624
+typography_spectrum: 0.6498027094639838
 content_rating:
   adult: false
 color:
-  brandStrength: 0.34434866602532566
-  lightness: 0.7690227527637035
-  saturation: 0.38923389790579677
-  rhythmicContrast: 0.869654736481607
+  brandStrength: 0.8728553289547563
+  lightness: 0.6374120081309229
+  saturation: 0.6594134196639061
+  rhythmicContrast: 0.3118686054367572
   brandColors:
     - '#25064D'
     - '#36175E'
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
-layout_spectrum: 0.9952141782268882
+layout_spectrum: 0.21595410234294832
 author:
   name: ''
   email: ''
