@@ -1,5 +1,6 @@
-layout_spectrum: 0.9952141782268882
 typography_spectrum: 0.8250840371474624
+content_rating:
+  adult: false
 color:
   brandStrength: 0.34434866602532566
   lightness: 0.7690227527637035
@@ -11,6 +12,10 @@ color:
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
+layout_spectrum: 0.9952141782268882
+author:
+  name: ''
+  email: ''
 name: Nicole Perez Art
 navigation:
   - id: 'https://www.facebook.com/nicoleperezart/'
