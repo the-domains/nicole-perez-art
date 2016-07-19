@@ -12,3 +12,8 @@ color:
     - '#7B52AB'
     - '#9768D1'
 name: Nicole Perez Art
+navigation:
+  - id: 'https://www.facebook.com/nicoleperezart/'
+    url: 'https://www.facebook.com/nicoleperezart/'
+    name: Facebook
+    type: external
