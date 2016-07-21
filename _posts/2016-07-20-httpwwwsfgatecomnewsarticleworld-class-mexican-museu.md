@@ -1,12 +1,14 @@
 ---
-datePublished: '2016-07-20T00:43:47.039Z'
+datePublished: '2016-07-21T01:17:07.237Z'
+sourcePath: _posts/2016-07-20-httpwwwsfgatecomnewsarticleworld-class-mexican-museu.md
 author: []
-dateModified: '2016-07-20T00:43:36.982Z'
+via: {}
+dateModified: '2016-07-21T01:17:03.066Z'
 title: ''
+publisher: {}
 description: >-
   http://www.sfgate.com/news/article/World-class-Mexican-Museum-being-built-in-San-8384420.php
 starred: false
-sourcePath: _posts/2016-07-20-httpwwwsfgatecomnewsarticleworld-class-mexican-museu.md
 inFeed: true
 hasPage: true
 inNav: false
